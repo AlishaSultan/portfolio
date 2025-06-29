@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.97936d1e.css",
+    "main.js": "/portfolio/static/js/main.8aee79b8.js",
+    "static/js/787.d230411c.chunk.js": "/portfolio/static/js/787.d230411c.chunk.js",
+    "static/media/Thumbs.db": "/portfolio/static/media/Thumbs.735170b30af6b4c4247f.db",
+    "static/media/MultiAuth.png": "/portfolio/static/media/MultiAuth.4e1f0ba912d7d4ec2ccd.png",
+    "static/media/FoodDeliveryApp.png": "/portfolio/static/media/FoodDeliveryApp.c6e534d92eff9c3ae6c2.png",
+    "static/media/TodoApp.png": "/portfolio/static/media/TodoApp.3f3650fa67d1ae147288.png",
+    "static/media/CustomPackage.png": "/portfolio/static/media/CustomPackage.a0d5164311c78639cb6e.png",
+    "static/media/UploadContent.png": "/portfolio/static/media/UploadContent.72fcec965df16bb2d3af.png",
+    "static/media/WeatherApp.png": "/portfolio/static/media/WeatherApp.71f09c5bc5d682ffa8e8.png",
+    "static/media/YouTubeClone.png": "/portfolio/static/media/YouTubeClone.9abcdb3f3f8a91ec1795.png",
+    "static/media/multi-auth.png": "/portfolio/static/media/multi-auth.59835f107c63d78a0cdb.png",
+    "static/media/home.jpg": "/portfolio/static/media/home.ac57a26d00e98c13876d.jpg",
+    "static/media/cv.pdf": "/portfolio/static/media/cv.e08d9a3f0536fc05318d.pdf",
+    "index.html": "/portfolio/index.html",
+    "main.97936d1e.css.map": "/portfolio/static/css/main.97936d1e.css.map",
+    "main.8aee79b8.js.map": "/portfolio/static/js/main.8aee79b8.js.map",
+    "787.d230411c.chunk.js.map": "/portfolio/static/js/787.d230411c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.97936d1e.css",
+    "static/js/main.8aee79b8.js"
+  ]
+}
